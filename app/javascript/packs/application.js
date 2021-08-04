@@ -15,3 +15,4 @@ Turbolinks.start()
 ActiveStorage.start()
 
 import "bootstrap"
+import "app/javascript/stylesheets/custom.css"
